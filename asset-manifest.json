@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alan_restaurant/static/css/main.073c9b0a.css",
+    "main.js": "/alan_restaurant/static/js/main.9288d891.js",
+    "static/js/787.d7c99c75.chunk.js": "/alan_restaurant/static/js/787.d7c99c75.chunk.js",
+    "index.html": "/alan_restaurant/index.html",
+    "main.073c9b0a.css.map": "/alan_restaurant/static/css/main.073c9b0a.css.map",
+    "main.9288d891.js.map": "/alan_restaurant/static/js/main.9288d891.js.map",
+    "787.d7c99c75.chunk.js.map": "/alan_restaurant/static/js/787.d7c99c75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9288d891.js"
+  ]
+}
